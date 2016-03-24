@@ -1,2 +1,3 @@
 # hello-world-from-rhuey
-First venture 
+First venture from Ruth Huey: I have programmed more using python then using C++...
+
